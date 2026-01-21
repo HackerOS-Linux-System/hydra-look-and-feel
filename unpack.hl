@@ -1,5 +1,5 @@
 // git
-> git clone 
+> git clone https://github.com/HackerOS-Linux-System/hydra-look-and-feel.git
 > cd /tmp/gamescope-session-steam/files
 > sudo cp -r /tmp/gamescope-session-steam/files/etc /
 > sudo cp -r /tmp/gamescope-session-steam/files/usr /
