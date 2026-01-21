@@ -1,4 +1,5 @@
 // git
 > git clone 
 > cd /tmp/gamescope-session-steam/files
-> sudo cp -r 
+> sudo cp -r /tmp/gamescope-session-steam/files/etc /
+> sudo cp -r /tmp/gamescope-session-steam/files/usr /
